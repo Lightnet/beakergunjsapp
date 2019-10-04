@@ -1,0 +1,24 @@
+{
+  "name": "beakergunjspp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Lightnet",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.6.2",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-better-rollup": "^4.0.1",
+    "gulp-rename": "^1.4.0",
+    "gun": "^0.2019.930",
+    "rollup": "^1.22.0",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-svelte": "^5.1.0",
+    "svelte": "^3.12.1"
+  }
+}

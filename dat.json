@@ -1,0 +1,14 @@
+{
+  "title": "beakergunjsapp",
+  "description": "Prototype test for gunjs",
+  "type": [
+    "website",
+    "user-profile",
+    "gun-user-profile"
+  ],
+  "web_root": "/public",
+  "fallback_page": "/404.html",
+  "experimental": {
+    "apis": ["datPeers", "globalFetch"]
+  }
+}
